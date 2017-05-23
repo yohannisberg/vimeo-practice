@@ -31,6 +31,32 @@
   margin-top:1px;
 }
 
+.searchBar{
+  margin: 0 5px 0 0;
+  width: 210px;
+  height: 30px;
+  cursor: pointer;
+  padding: 0 0 0 10px;
+  color: #7b8084;
+  position: absolute;
+  right: 179px;
+}
+
+.magGlass{
+  width: 14px;
+  position: absolute;
+  right: 197px;
+}
+
+.profilePic{
+  height: 32px;
+  width: 32px;
+  background:gray;
+  border-radius: 100%;
+  position: absolute;
+  right: 134px;
+}
+
 .cloud{
   margin-right: 6px;
 }
